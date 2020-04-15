@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+1. animals
+    1. tiger
+    2. lion
+2. plants
+    1. flower
+    2. tree
